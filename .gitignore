@@ -1,0 +1,28 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/*/logs/
+.idea/misc.xml
+.idea/workspace.xml
+/.idea/
+*.iml
+logs/
+*.xml.versionsBackup
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+*.orig
